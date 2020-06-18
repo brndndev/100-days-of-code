@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 17, Wednesday
+
+**Today's Progress** Today I started my challenge on CSS. So far I've learned that CSS can be used for customizing the:
+
+color
+fonts
+positioning
+spacing
+sizing
+decorations
+transitions
+
+of a project. The customizations could be used as inline styles or external styles. Inline style CSS is found in the HTML and is designed for changing lines of code or blocks of code. External CSS styles are often used by developers as the desired preference to inline because it looks cleaner and more organized since it's not mixed in with any HTML.
+
+**Thoughts** freecodecamp's CSS modules are buggy. I continued to fail the same test until I turned off my chrome's Dark reader extension.
+
+
+
 ### Day 3: June 15, Monday
 
 **Today's Progress** I completed the Basics HTML/HTML5 challenges on freecodecamp and learned about Nesting elements and organizing HTML pages using HTML tags, head, div, body, and DOCTYPE... Every html file needs to begin with a DOCTYPE for it to translate between newer and older computer systems. DOCTYPE html is commonly used for HTML5 files. Part of the challenge today was to create a form that could be submitted to a server after choosing a responses form a list of options in the forms of radio buttons and checkboxes. I took all the information I learned today to create my very own submission for for people to list things they love and hate and to submit a form with their name and sex (male/female). I'll be adding more features tomorrow but I'm excited to push what I have up to Github.
