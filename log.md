@@ -1,33 +1,44 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 22, Monday
+
+**Today's Progress** I learned how to pull fronts from external sources using CSS.
+
+**Thoughts** I used to believe that I needed to buy and download all of my fonts, but not anymore.
+
+**Link(s) to work**
+1. [freecodecamp](freecodecamp.org)
+2. [google fonts](https://fonts.google.com/)
+
 ### Day 5: June 21, Sunday
 
 **Today's Progress** I've been stuck on the same CSS problem for a few days now:
 
-<style>
+<//style>
   .red-text {
     color: red;
   }
-</style>
+<//style>
 
-<h2 class="red-text">CatPhotoApp</h2>
-<main>
-  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+<//h2 class="red-text">CatPhotoApp<//h2>
+<//main>
+  <//p class="red-text">Click here to view more <//a href="#">cat photos<//a>.<//p>
 
-I've been try to solve the problem by inserting <h2 class="red-text">CatPhotoApp</h2> as it's own line outside of the style tag until I realized that my problem was within the style tag itself. The challenge was to change the color of the h2 tag text from 
-<style>
+I've been try to solve the problem by inserting <//h2 class="red-text">CatPhotoApp<//h2> as it's own line outside of the style tag until I realized that my problem was within the style tag itself. The challenge was to change the color of the h2 tag text from 
+
+<//style//>
 .blue-text {
     color: blue;
  }
- </style>
+ <//style//>
  
   to 
   
-<style>
+<//style//>
 .red-text {
     color: red; 
 }
-</style>
+<//style//>
 
 After I finished a few code challenges, I practiced a little more CSS with codepip to play "Flexbox Froggy" which I hear is a great way to learn/practice CSS. I'm having a lot of fun and advise anyone else trying to learn CSS to try codepip out as well.
 
