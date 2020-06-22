@@ -60,3 +60,117 @@ Note that it's important to have both opening and closing curly braces ({ and })
 
 Delete your h2 element's style attribute, and instead create a CSS style block. Add the necessary CSS to turn all h2 elements blue.
 
+
+---------------------------------------------------------------------------
+
+
+Basic CSS: Use a CSS Class to Style an ElementPassed
+Classes are reusable styles that can be added to HTML elements.
+
+Here's an example CSS class declaration:
+
+<style>
+  .blue-text {
+    color: blue;
+  }
+</style>
+
+You can see that we've created a CSS class called blue-text within the <style> tag. You can apply a class to an HTML element like this: <h2 class="blue-text">CatPhotoApp</h2> Note that in your CSS style element, class names start with a period. In your HTML elements' class attribute, the class name does not include the period.
+
+Inside your style element, change the h2 selector to .red-text and update the color's value from blue to red.
+
+Give your h2 element the class attribute with a value of 'red-text'.
+
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+
+------------------------------------------------------------------------------
+
+Basic CSS: Style Multiple Elements with a CSS ClassPassed
+Classes allow you to use the same CSS styles on multiple HTML elements. You can see this by applying your red-text class to the first p element.
+
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+
+  ------------------------------------------------------------------------------
+
+  Basic CSS: Change the Font Size of an Element
+Font size is controlled by the font-size CSS property, like this:
+
+h1 {
+  font-size: 30px;
+}
+Inside the same <style> tag that contains your red-text class, create an entry for p elements and set the font-size to 16 pixels (16px).
+
+<style>
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <div>
+    <p>Things cats love:</p>
+    <ul>
+      <li>cat nip</li>
+      <li>laser pointers</li>
+      <li>lasagna</li>
+    </ul>
+    <p>Top 3 things cats hate:</p>
+    <ol>
+      <li>flea treatment</li>
+      <li>thunder</li>
+      <li>other cats</li>
+    </ol>
+  </div>
+
+  ---------------------------------------------------------------------------
+
+
+  Basic CSS: Set the Font Family of an Element
+You can set which font an element should use, by using the font-family property.
+
+For example, if you wanted to set your h2 element's font to sans-serif, you would use the following CSS:
+
+h2 {
+  font-family: sans-serif;
+}
+Make all of your p elements use the monospace font.
+
+<style>
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: "monospace";
+  }
+
+  /* body {
+    font-family: "Paytone One"
+  } */
+</style>

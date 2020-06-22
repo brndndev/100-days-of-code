@@ -1,5 +1,46 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 21, Sunday
+
+**Today's Progress** I've been stuck on the same CSS problem for a few days now:
+
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+
+I've been try to solve the problem by inserting <h2 class="red-text">CatPhotoApp</h2> as it's own line outside of the style tag until I realized that my problem was within the style tag itself. The challenge was to change the color of the h2 tag text from 
+<style>
+.blue-text {
+    color: blue;
+ }
+ </style>
+ 
+  to 
+  
+<style>
+.red-text {
+    color: red; 
+}
+</style>
+
+After I finished a few code challenges, I practiced a little more CSS with codepip to play "Flexbox Froggy" which I hear is a great way to learn/practice CSS. I'm having a lot of fun and advise anyone else trying to learn CSS to try codepip out as well.
+
+**Thoughts** I was excited to realize that it was a simple fix and move on to my next challenge. This problem made me realize that it is super easy to over look the smallest problems and that will throw you off and bring you to a stand still. I read through the instructions multiple times and couldn't make perfect sence of what I needed to do but luckily I was allowed to try as many times as I needed until I figured out the right solution.
+
+**Link(s) to work**
+1. [freecodecamp](freecodecamp.org)
+2. [HTML project](https://github.com/brndndev/HTML)
+3. [Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)
+
+
+
+
 ### Day 4: June 17, Wednesday
 
 **Today's Progress** Today I started my challenge on CSS. So far I've learned that CSS can be used for customizing the:
