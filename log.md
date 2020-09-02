@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+### Day 7: September 2, Wednesday
+
+**Today's Progress** I started Applied Visual Design challenges. I hadn't had the time today to fully get through the first challenge so I don't have much to say on this log entry today.
+
+**Thoughts** None...
+
+**Link(s) to work**
+1. [freecodecamp](freecodecamp.org)
+
+### Day 6: August 31, Monday
+
+**Today's Progress** I've completed the Basics of CSS. The unit finished up with teaching the use of [attr=value], styling the html body element, using hex code for specific colors, and using css variables in code.
+
+**Thoughts** It's been over 2 months since my last update on my challenges and I've been dealing with a few life changes due to how Covid-19 has been changing everything. I've also have been getting acclimated to a new full-time job as well but I'm happy that I'm able to get back to my code challenges and diving back into learning to code so I can work towards landing a position as a junior dev. I feel like the CSS unit was pretty good. It was extremely boring and hard to stay focused on at first because I wanted to dive right into learning the cool tricks that CSS is able to do. 
+
+
+**Link(s) to work**
+1. [freecodecamp](freecodecamp.org)
+2. []()
 
 ### Day 6: June 22, Monday
 
